@@ -1,4 +1,14 @@
 /* HeroSearch private styles */
+.foo{
+    background-color: #eee;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    cursor: hand;
+    font-family: Arial;
+}
+
 .search-result li {
     border-bottom: 1px solid gray;
     border-left: 1px solid gray;
@@ -31,8 +41,7 @@
     width: 200px;
     height: 20px;
   }
-  
-  
+    
   ul.search-result {
     margin-top: 0;
     padding-left: 0;
