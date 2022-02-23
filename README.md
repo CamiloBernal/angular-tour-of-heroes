@@ -1,4 +1,7 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes
+
+This is a simple example of firsts steps of Angular, see: https://docs.angular.lat/tutorial
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 
